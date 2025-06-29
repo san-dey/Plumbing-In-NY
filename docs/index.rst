@@ -5,8 +5,10 @@ Best Plumbing Service in New York: Reliable Plumbing Solutions
    :maxdepth: 2
    :caption: Contents:
 
-For fast assistance, call +1 (866) 969‑0661
-----------------------------------------
+.. image:: https://img.shields.io/badge/Call%20Now-(866)%20969--0661-blue?style=for-the-badge&logo=phone
+   :target: tel:+18669690661
+   :alt: Call Now
+
 
 When it comes to maintaining a comfortable and functional home or business in New York, plumbing services play a crucial role. From fixing leaking pipes to installing state-of-the-art water systems, having access to the best plumbing service is indispensable. If you ever find yourself in need of expert plumbing assistance, simply dial ``+1(866)9690661`` for prompt, professional help that you can trust.
 
